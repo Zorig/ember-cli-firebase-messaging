@@ -1,12 +1,12 @@
 # ember-cli-firebase-messaging
 
-This README outlines the details of collaborating on this Ember addon.
+This is Ember addon for Firebase Cloud Messaging. Currently, it only include required JS files in Fastboot supported way.
+
+TODO - Provide service
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-firebase-messaging`
-* `npm install`
+* `ember install ember-cli-firebase-messaging`
 
 ## Running
 
